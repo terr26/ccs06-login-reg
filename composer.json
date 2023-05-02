@@ -1,0 +1,17 @@
+{
+    "name": "terr26/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Terrence Liam C. Tongol",
+            "email": "tongol.terrenceliam@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
